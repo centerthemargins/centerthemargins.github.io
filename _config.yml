@@ -1,1 +1,3 @@
-
+theme: litera
+    css: styles.css
+    toc: true
